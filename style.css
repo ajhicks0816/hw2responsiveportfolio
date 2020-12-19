@@ -1,1 +1,8 @@
-body {}
+body {
+    background-color: cadetblue;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
