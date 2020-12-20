@@ -11,15 +11,14 @@ body {
 .centerMe {
     display: flex;
     justify-content: center;
-
+    width: 200px;
+    height: 200px;
 }
 
 .aboutMe {
     font-family: 'Times New Roman', Times, serif;
-    font-size: x-large;
-    font-weight: 600;
-    display: flex;
-    justify-content: center;
+    font-size: large;
+    font-weight: 350;
     
 }
 
