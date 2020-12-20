@@ -1,12 +1,15 @@
 body {
-    background-color: cadetblue;
+    background-color:cadetblue;
 }
 
 img {
-    width: 500px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
 }
 
 p {
-    
+    margin: 50px 50px 100px 100px;
+    font-family: 'Times New Roman', Times, serif
+    font-size: 75px;
+    font-weight: 25%;
 }
