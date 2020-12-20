@@ -1,16 +1,27 @@
 body {
     background-color:cadetblue;
+
 }
 
-img {
+.mainImages {
     width: 200px;
     height: 200px;
 }
 
-p {
-    margin: 25px 50px 75px 100px;
-    font-family: 'Times New Roman', Times, serif
-    font-size: 150px;
-    font-weight: 75%;
+.centerMe {
+    display: flex;
+    justify-content: center;
+
 }
+
+.aboutMe {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
 
