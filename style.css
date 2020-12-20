@@ -3,13 +3,14 @@ body {
 }
 
 img {
-    width: 350px;
-    height: 350px;
+    width: 200px;
+    height: 200px;
 }
 
 p {
-    margin: 50px 50px 100px 100px;
+    margin: 100px 100px 100px 100px;
     font-family: 'Times New Roman', Times, serif
-    font-size: 75px;
-    font-weight: 25%;
+    font-size: 100px;
+    font-weight: 50%;
 }
+
