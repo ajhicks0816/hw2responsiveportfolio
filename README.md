@@ -1,4 +1,4 @@
-# hw2responsiveportfolio
+# responsiveportfolio
 
 ## Purpose
 The purpose of the assignment was to create a mobile responsive portfolio that is functional and deployable.
@@ -11,5 +11,5 @@ The deadline of the project.
 
 ---
 ### Links
-[Github] (https://github.com/ajhicks0816/hw2responsiveportfolio)
+[Github] (https://github.com/ajhicks0816/hw2responsiveportfolio)  
 [Portfolio] (https://ajhicks0816.github.io/hw2responsiveportfolio/)

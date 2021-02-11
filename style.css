@@ -1,5 +1,7 @@
 body {
     background-color:cadetblue;
+    background-image: url(https://static-cse.canva.com/blob/142372/Patterns-3-03.jpg);
+    background-repeat: repeat;
 
 }
 
@@ -15,15 +17,31 @@ body {
 }
 
 .aboutMe {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: large;
     font-weight: 350;
     
 }
 
-.pictureMe{
+.pictureMe {
     max-width: 250px;
 }
 
+#welcomeportfolio {
+    font-size: 20px;
+    /* font-weight: bold; */
+    font-weight: italic;
+    color: white;
+}
 
+p {
+    white-space: no wrap;
+    overflow: hidden;
+    max-width: 100 px;
+    text-overflow: ellipsis;
+}
+
+.boxed {
+    border: 2 px black;
+}
 
