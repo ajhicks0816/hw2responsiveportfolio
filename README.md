@@ -7,13 +7,13 @@ The purpose of the assignment is to create a mobile responsive portfolio that is
 My goal is to provide a portfolio that is visually appealing. That allows the reader to learn a bit more about me and also allows the viewer to see my work, my strengths, weaknesses and to understand my goals moving forward. 
 
 ## Description
-Provided is a 3 page website including a navbar that includes an "About Me" page, 
+Provided is a 4 page website that includes a "Home/About Me" page, "Contact" page, "Portfolio" page and deployed "Links" page. 
 
 ## Challenges and Successes  
-
+My biggest challenge is to make my portfolio look the way I envision it. Choosing the perfect background that is subtle, easy on the eyes and not a distraction. I had success with condensing my portfolio and continuing to implement things that I have learned over the course of the class.
 
 ## Motivation
-The deadline of the project.
+To show a complete portfolio that showcases my work and who I am.
 
 ---
 ### Links
