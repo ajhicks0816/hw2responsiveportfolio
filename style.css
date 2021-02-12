@@ -4,17 +4,11 @@ body {
     background-repeat: repeat;
 
 }
-
+/* 
 .mainImages {
     width: 200px;
     height: 200px;
-}
-
-.centerMe {
-    display: flex;
-    justify-content: center;
-   
-}
+} */
 
 .aboutMe {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -23,13 +17,21 @@ body {
     
 }
 
-.pictureMe {
-    max-width: 250px;
+.homepageimage {
+    max-width: 200px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
 }
-m  
+
 #welcomeportfolio {
     font-size: 20px;
-    /* font-weight: bold; */
+    font-weight: bold;
     font-weight: italic;
     color: white;
 }
@@ -43,5 +45,14 @@ p {
 
 .boxed {
     border: 2 px black;
+}
+
+#carouselExampleControls {
+    height: 450px;
+    width: 600px;
+    margin-left: 375px;
+    margin-right: 150px;
+    margin-top:75px;
+    margin-bottom: 50px;
 }
 
