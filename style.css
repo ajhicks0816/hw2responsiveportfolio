@@ -1,6 +1,6 @@
 body {
     background-color:cadetblue;
-    background-image: url(https://static-cse.canva.com/blob/142372/Patterns-3-03.jpg);
+    background-image: url(https://i.pinimg.com/originals/b4/bf/af/b4bfafa2dccc4cf3fe24f774b3f13b12.jpg);
     background-repeat: repeat;
 
 }
@@ -11,20 +11,19 @@ body {
 } */
 
 .aboutMe {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Courier New', Courier, monospace
     font-size: large;
     font-weight: 350;
     
 }
 
 .homepageimage {
-    max-width: 200px;
-    height: 200px;
-    margin-left: 200px;
-    margin-top: 200px;
-    margin-right: 200px;
-    margin-bottom: 200px;
-    width: 250px;
+    width: 150px;
+    height: 150px;
+    margin-left: 50x;
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-bottom: 0px;
     display: flex;
     justify-content: center;
 }
