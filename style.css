@@ -4,29 +4,16 @@ body {
     background-repeat: repeat;
 
 }
-/* 
-.mainImages {
-    width: 200px;
-    height: 200px;
-} */
 
 .aboutMe {
-    font-family: 'Courier New', Courier, monospace
+    font-family:'Times New Roman', Times, serif;
     font-size: large;
     font-weight: bold;
-    
 }
 
-/* .homepageimage1 {
-    width: 150px;
-    height: 150px;
-    margin-left: 50x;
-    margin-top: 25px;
-    margin-right: 50px;
-    margin-bottom: 0px;
-    display: flex;
-    justify-content: center;
-} */
+.centeralign {
+    font-family: 'Times New Roman', Times, serif;
+}
 
 #welcomeportfolio {
     font-size: 15px;
@@ -43,4 +30,11 @@ p {
 
 .mb-3 {
     color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contactinfo {
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
