@@ -13,7 +13,7 @@ body {
 .aboutMe {
     font-family: 'Courier New', Courier, monospace
     font-size: large;
-    font-weight: 350;
+    font-weight: bold;
     
 }
 
@@ -33,6 +33,7 @@ body {
     font-weight: bold;
     font-weight: italic;
     color: white;
+    justify-content: center;
 }
 
 p {
@@ -41,10 +42,10 @@ p {
     max-width: 100 px;
     text-overflow: ellipsis;
 }
-
+/* 
 .boxed {
     border: 2 px black;
-}
+} */
 
 #carouselExampleControls {
     height: 450px;
