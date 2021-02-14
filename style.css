@@ -17,7 +17,7 @@ body {
     
 }
 
-.homepageimage {
+/* .homepageimage {
     width: 150px;
     height: 150px;
     margin-left: 50x;
@@ -26,14 +26,12 @@ body {
     margin-bottom: 0px;
     display: flex;
     justify-content: center;
-}
+} */
 
 #welcomeportfolio {
-    font-size: 20px;
-    font-weight: bold;
-    font-weight: italic;
+    font-size: 15px;
     color: white;
-    justify-content: center;
+    text-align: left;
 }
 
 p {
@@ -42,17 +40,7 @@ p {
     max-width: 100 px;
     text-overflow: ellipsis;
 }
-/* 
-.boxed {
-    border: 2 px black;
-} */
 
-#carouselExampleControls {
-    height: 450px;
-    width: 600px;
-    margin-left: 375px;
-    margin-right: 150px;
-    margin-top:75px;
-    margin-bottom: 50px;
+.mb-3 {
+    color: white;
 }
-

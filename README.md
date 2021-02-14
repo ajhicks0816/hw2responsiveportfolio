@@ -1,4 +1,10 @@
-# responsiveportfolio
+# Alaina J. Hicks - Responsive Portfolio
+
+## About Me
+* Email: ajhicks0816@gmail.com
+* Website: https://ayejayhicks.github.io/responsiveportfolio/
+* GitHub: https://github.com/ayejayhicks
+* LinkedIn: https://www.linkedin.com/in/alainajhicks/
 
 ## Purpose
 The purpose of the assignment is to create a mobile responsive portfolio that is functional and deployable.
@@ -15,7 +21,12 @@ My biggest challenge is to make my portfolio look the way I envision it. Choosin
 ## Motivation
 To show a complete portfolio that showcases my work and who I am.
 
----
+***
+### Technologies Used
+* HTML
+* CSS
+* Bootstrap
+
 ### Links
 [Github] (https://github.com/ayejayhicks/responsiveportfolio)  
 [Portfolio] (https://ayejayhicks.github.io/responsiveportfolio/)
