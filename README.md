@@ -26,10 +26,14 @@ To show a complete portfolio that showcases my work and who I am.
 * HTML
 * CSS
 * Bootstrap
+* Font Awesome
 
 ### Links
 [Github] (https://github.com/ayejayhicks/responsiveportfolio)  
 [Portfolio] (https://ayejayhicks.github.io/responsiveportfolio/)
 
-### Screenshot
-[Hungry Hangry Hippo!] ()
+### Screenshots
+Project 1: ![Hungry Hangry Hippo! app](Assets\Images\HHH.png)
+Contributers: Alaina Hicks, Arash Saeedi, Lee Spaulding & Sharon Kim
+
+Workday Scheduler: ![Workday Scheduler](Assets\Images\WDS.png)

@@ -1,6 +1,6 @@
 body {
     background-color:cadetblue;
-    background-image: url("./Assets/Images/graybackground.jpg");
+    background-image: url("./Assets/Images/graybackgroundcut.jpg");
     background-repeat: repeat;
 
 }
@@ -11,28 +11,26 @@ body {
     font-weight: bold;
 }
 
-.centeralign {
-    font-family: 'Times New Roman', Times, serif;
-}
-
 #welcomeportfolio {
+    font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
     color: white;
     text-align: left;
 }
-
-/* p {
-    white-space: no wrap;
-    overflow: hidden;
-    max-width: 100 px;
-    text-overflow: ellipsis;
-} */
 
 .mb-3 {
     color: white;
     font-family: 'Times New Roman', Times, serif;
 }
 
+#worksamples {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
 .contactinfo {
     color: white;
     text-align: center;
