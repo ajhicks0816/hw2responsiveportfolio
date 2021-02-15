@@ -33,7 +33,7 @@ To show a complete portfolio that showcases my work and who I am.
 [Portfolio] (https://ayejayhicks.github.io/responsiveportfolio/)
 
 ### Screenshots
-Project 1: ![Hungry Hangry Hippo! app](Assets\Images\HHH.png)
+Project 1: ![Hungry Hangry Hippo! app](Assets\Images\HHH.png)  
 Contributers: Alaina Hicks, Arash Saeedi, Lee Spaulding & Sharon Kim
 
 Workday Scheduler: ![Workday Scheduler](Assets\Images\WDS.png)
