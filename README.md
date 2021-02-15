@@ -34,6 +34,10 @@ To show a complete portfolio that showcases my work and who I am.
 
 ### Screenshots
 Project 1: ![Hungry Hangry Hippo! app](Assets\Images\HHH.png)  
-Contributers: Alaina Hicks, Arash Saeedi, Lee Spaulding & Sharon Kim
+Contributers:  
+* Alaina Hicks - https://github.com/ayejayhicks
+* Arash Saeedi - https://github.com/Haru2727
+* Lee Spaulding - https://github.com/soulfulnoise  
+* Sharon Kim - https://github.com/skimmers
 
 Workday Scheduler: ![Workday Scheduler](Assets\Images\WDS.png)

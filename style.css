@@ -5,6 +5,30 @@ body {
 
 }
 
+.aboutpicture1 {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    box-shadow: 0 0 2px 1px rgb(244, 252, 255);
+}
+
+.aboutpicture2 {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    box-shadow: 0 0 2px 1px rgb(244, 252, 255);
+}
+
+.aboutpicture3 {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    box-shadow: 0 0 2px 1px rgb(244, 252, 255);
+}
+
 .aboutMe {
     font-family:'Times New Roman', Times, serif;
     font-size: large;
@@ -13,7 +37,7 @@ body {
 
 #welcomeportfolio {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
+    font-size: 18px;
     color: white;
     text-align: left;
 }
@@ -23,7 +47,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-#worksamples {
+.row {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     font-weight: bold;
@@ -31,6 +55,13 @@ body {
     text-align: center;
     margin-top: 2%;
 }
+
+.column {
+    float: left;
+    width: 15%;
+    padding: 5px;
+}
+
 .contactinfo {
     color: white;
     text-align: center;
