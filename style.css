@@ -5,28 +5,37 @@ body {
 
 }
 
-.aboutpicture1 {
+.aboutpicture {
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
     float: left;
+    height: fit-content;
     width: 33.33%;
     padding: 5px;
     box-shadow: 0 0 2px 1px rgb(244, 252, 255);
+}
+    
+   
+.aboutpicture1 {
+    background-img: url("./Assets/Images/6.jpeg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 
 .aboutpicture2 {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-    box-shadow: 0 0 2px 1px rgb(244, 252, 255);
+    background-img: url("./Assets/Images/8.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 
 .aboutpicture3 {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-    box-shadow: 0 0 2px 1px rgb(244, 252, 255);
+    background-img: url("./Assets/Images/5.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 
 .aboutMe {
