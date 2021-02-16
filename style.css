@@ -1,38 +1,35 @@
 body {
-    background-color:cadetblue;
     background-image: url("./Assets/Images/graybackgroundcut.jpg");
     background-repeat: repeat;
 
 }
 
 .aboutpicture {
-    border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
     float: left;
-    height: fit-content;
-    width: 33.33%;
+    height: 400px;
+    width: 33.00%;
     padding: 5px;
-    box-shadow: 0 0 2px 1px rgb(244, 252, 255);
 }
     
    
 .aboutpicture1 {
-    background-img: url("./Assets/Images/6.jpeg");
+    background-image: url("./Assets/Images/6.jpeg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
 }
 
 .aboutpicture2 {
-    background-img: url("./Assets/Images/8.jpg");
+    background-image: url("./Assets/Images/8.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
 }
 
 .aboutpicture3 {
-    background-img: url("./Assets/Images/5.jpg");
+    background-image: url("./Assets/Images/5.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
