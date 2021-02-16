@@ -62,11 +62,28 @@ body {
     margin-top: 2%;
 }
 
-.column {
+.worksample {
+    border-radius: 4px;
+    padding: 5px;
     float: left;
-    width: 15%;
+    height: 400px;
+    width: 50.00%;
     padding: 5px;
 }
+
+.hhh {
+    background-image: url("./Assets/Images/HHH.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.workdayscheduler {
+    background-image: url("./Assets/Images/WDS.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}       
 
 .contactinfo {
     color: white;
