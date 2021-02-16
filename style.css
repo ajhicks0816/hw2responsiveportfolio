@@ -48,11 +48,6 @@ body {
     text-align: left;
 }
 
-.mb-3 {
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
-}
-
 .row {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
@@ -83,10 +78,21 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-}       
+}
+
+.contactform {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button{
+    text-align: center;
+}
 
 .contactinfo {
     color: white;
     text-align: center;
     font-family:'Times New Roman', Times, serif;
 }
+
+
