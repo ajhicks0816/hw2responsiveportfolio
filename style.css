@@ -64,10 +64,10 @@ body {
 .worksample {
     border-radius: 4px;
     padding: 5px;
-    float: left;
-    height: 400px;
+    height: 300px;
     width: 50.00%;
     padding: 5px;
+    margin-bottom: 3%;
 }
 
 .hhh {
