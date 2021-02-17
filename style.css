@@ -13,7 +13,7 @@ body {
     padding: 5px;
     float: left;
     height: 400px;
-    width: 33.00%;
+    width: 25.00%;
     padding: 5px;
 }
     
@@ -23,6 +23,7 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
+    margin-left: 195px;
 }
 
 .aboutpicture2 {
@@ -47,9 +48,14 @@ body {
 
 #welcomeportfolio {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
+    font-size: 15px;
     color: white;
-    text-align: left;
+    text-align: center;
+    width: 575px;
+    margin-left: 33%;
+    border: 10px solid white;
+    /* padding: 50px; */
+    margin: 20px;
 }
 
 .row {
