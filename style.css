@@ -48,12 +48,13 @@ body {
 
 #welcomeportfolio {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
+    font-size: 16px;
     color: white;
     text-align: center;
-    width: 575px;
-    margin-left: 33%;
-    border: 10px solid white;
+    width: 574px;
+    /* margin-left: 100%; */
+    /* margin-right: 50%; */
+    border: 8px solid white;
     /* padding: 50px; */
     margin: 20px;
 }
