@@ -52,7 +52,8 @@ body {
     width: 574px;
     border: 8px solid white;
     margin: 20px;
-    justify-content: center;
+    margin-left: 600px;
+    justify-content: space-evenly;
 }
 
 .row {
@@ -84,7 +85,6 @@ body {
     padding: 5px;
     height: 400px;
     width: 500px;
-    padding: 5px;
     margin-bottom: 3%;
     margin-left: 10%;
     margin-top: 10%;
@@ -109,8 +109,8 @@ body {
     margin-top: 2%;
 }
 
-.contacticons {
-   text-align: left;
+.icons {
+   text-align: center;
 }
 
 
