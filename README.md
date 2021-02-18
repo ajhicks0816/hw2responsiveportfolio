@@ -25,6 +25,8 @@ To show a complete portfolio that showcases my work and who I am.
 ### Technologies Used
 * HTML
 * CSS
+* JavaScript
+* jQuery
 * Bootstrap
 * Font Awesome
 
