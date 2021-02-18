@@ -1,7 +1,6 @@
 body {
     background-image: url("./Assets/Images/graybackgroundcut.jpg");
     background-repeat: repeat;
-
 }
 
 .navbar-brand {
@@ -17,7 +16,6 @@ body {
     padding: 5px;
 }
     
-   
 .aboutpicture1 {
     background-image: url("./Assets/Images/6.jpeg");
     background-repeat: no-repeat;
@@ -68,7 +66,20 @@ body {
     margin-top: 2%;
 }
 
-.worksample {
+/* .worksample {
+    border-radius: 4px;
+    padding: 5px;
+    height: 300px;
+    width: 50.00%;
+    padding: 5px;
+    margin-bottom: 3%;
+} */
+
+.thumbnail {
+    background-image: url("./Assets/Images/HHH.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
     border-radius: 4px;
     padding: 5px;
     height: 300px;
@@ -77,22 +88,30 @@ body {
     margin-bottom: 3%;
 }
 
-.hhh {
-    background-image: url("./Assets/Images/HHH.png");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
-}
-
-.workdayscheduler {
+.thumbnail {
     background-image: url("./Assets/Images/WDS.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
+    border-radius: 4px;
+    padding: 5px;
+    height: 300px;
+    width: 50.00%;
+    padding: 5px;
+    margin-bottom: 3%;
 }
 
-.wslinks {
-    text-align: center;
+.thumbnail {
+    background-image: url("./Assets/Images/Horiseon.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border-radius: 4px;
+    padding: 5px;
+    height: 300px;
+    width: 50.00%;
+    padding: 5px;
+    margin-bottom: 3%;
 }
 
 .contactform {
@@ -101,7 +120,7 @@ body {
     margin-top: 2%;
 }
 
-.button{
+.button {
     text-align: center;
     margin-top: 2%;
 }
@@ -113,8 +132,8 @@ body {
     margin-top: 2%;
 }
 
-.icons {
-   text-align: center;
+.contacticons {
+   text-align: left;
 }
 
 
