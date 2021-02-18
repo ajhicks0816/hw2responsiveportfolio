@@ -91,6 +91,10 @@ body {
     background-position: center;
 }
 
+.wslinks {
+    text-align: center;
+}
+
 .contactform {
     color: white;
     font-family: 'Times New Roman', Times, serif;
