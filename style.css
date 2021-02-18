@@ -50,11 +50,9 @@ body {
     color: white;
     text-align: center;
     width: 574px;
-    /* margin-left: 100%; */
-    /* margin-right: 50%; */
     border: 8px solid white;
-    /* padding: 50px; */
     margin: 20px;
+    justify-content: center;
 }
 
 .row {
@@ -66,52 +64,31 @@ body {
     margin-top: 2%;
 }
 
-/* .worksample {
-    border-radius: 4px;
-    padding: 5px;
-    height: 300px;
-    width: 50.00%;
-    padding: 5px;
-    margin-bottom: 3%;
-} */
-
-.thumbnail {
+#project1 {
     background-image: url("./Assets/Images/HHH.png");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
-    border-radius: 4px;
-    padding: 5px;
-    height: 300px;
-    width: 50.00%;
-    padding: 5px;
-    margin-bottom: 3%;
 }
 
-.thumbnail {
+#workdayscheduler {
     background-image: url("./Assets/Images/WDS.png");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
-    border-radius: 4px;
-    padding: 5px;
-    height: 300px;
-    width: 50.00%;
-    padding: 5px;
-    margin-bottom: 3%;
+}
+
+#coderefactor {
+    background-image: url("./Assets/Images/Horiseon.png");
 }
 
 .thumbnail {
-    background-image: url("./Assets/Images/Horiseon.png");
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: center;
+    background-position: left;
     border-radius: 4px;
     padding: 5px;
-    height: 300px;
-    width: 50.00%;
+    height: 400px;
+    width: 500px;
     padding: 5px;
     margin-bottom: 3%;
+    margin-left: 10%;
+    margin-top: 10%;
+    justify-content: space-evenly;
 }
 
 .contactform {
