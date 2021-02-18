@@ -1,4 +1,4 @@
-# Alaina J. Hicks - Responsive Portfolio
+# Alaina J. Hicks - Updated Portfolio
 
 ## About Me
 * Email: ajhicks0816@gmail.com
