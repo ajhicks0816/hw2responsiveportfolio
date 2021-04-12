@@ -39,13 +39,13 @@ body {
 }
 
 .aboutMe {
-    font-family:'Times New Roman', Times, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: large;
     font-weight: bold;
 }
 
 #welcomeportfolio {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 16px;
     color: white;
     text-align: center;
@@ -53,11 +53,11 @@ body {
     border: 8px solid white;
     margin: 20px;
     margin-left: 600px;
-    justify-content: space-evenly;
+    justify-content: space-evenly;    
 }
 
 .row {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: large;
     font-weight: bold;
     color: white;
@@ -69,12 +69,16 @@ body {
     background-image: url("./Assets/Images/HHH.png");
 }
 
+#project2 {
+    background-image: url("./Assets/Images/HomeGrown.png");
+}
+
 #workdayscheduler {
     background-image: url("./Assets/Images/WDS.png");
 }
 
-#coderefactor {
-    background-image: url("./Assets/Images/Horiseon.png");
+#notetaker {
+    background-image: url("./Assets/Images/notetaker.png");
 }
 
 .thumbnail {
