@@ -36,7 +36,7 @@ To show a complete portfolio that showcases my work and who I am.
 * Alaina Hicks - https://github.com/ayejayhicks
 * Arash Saeedi - https://github.com/Haru2727
 * Lee Spaulding - https://github.com/soulfulnoise  
-* Sharon Kim - https://github.com/skimmers
+* Sharon Kim - https://github.com/skimmers  
 ![HHH](https://user-images.githubusercontent.com/73868232/114339637-4b056880-9b1b-11eb-813c-8bd09cdaff45.png)  
 
 ### Project 2: Homegrown  
@@ -44,7 +44,7 @@ To show a complete portfolio that showcases my work and who I am.
 * Alaina Hicks - https://github.com/ayejayhicks
 * Arash Saeedi - https://github.com/Haru2727
 * Caitlin Gorham - https://github.com/caitie-gorham
-* Tyler Gilbert - https://github.com/Tylergilbert913
+* Tyler Gilbert - https://github.com/Tylergilbert913  
 ![113459623-0de6fb00-93e4-11eb-844e-c984133112ed](https://user-images.githubusercontent.com/73868232/114341718-092af100-9b20-11eb-9009-3622bfccfc05.png)
 
 ### Workday Scheduler:  
